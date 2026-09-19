@@ -1,7 +1,7 @@
 # CodeAlpha - Basic Chatbot (Python)
 
 ## Internship Task
-This project was built as part of the CodeAlpha Python Programming Internship — Task 4: Basic Chatbot.
+This project was built as part of the CodeAlpha Python Programming Internship — Task 1: Basic Chatbot.
 
 ## Description
 A simple rule-based chatbot built in Python that runs in the console. The chatbot takes user input, matches it against predefined keywords and phrases, and responds with an appropriate reply.
